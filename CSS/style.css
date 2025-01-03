@@ -8,9 +8,9 @@
 /* General Styling */
 body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    color: #444;
+    color: #122620;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #F4EBD0;
 }
 
 /* General responsive adjustments */
@@ -71,26 +71,26 @@ header, #features, #download {
 header {
     text-align: center;
     padding: 60px 20px;
-    background: #333;
-    color: white;
+    background: #122620;
+    color: F4EBD0;
 }
 
 header h1 {
     font-size: 3rem;
-    color: #ff8c00;
+    color: #B68D40;
     margin-bottom: 15px;
 }
 
 header p {
     font-size: 1.2rem;
-    color: #ddd;
+    color: white;
 }
 
 .cta-button {
     display: inline-block;
     margin-top: 20px;
     padding: 12px 25px;
-    background: #ff8c00;
+    background: #B68D40;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -99,7 +99,7 @@ header p {
 }
 
 .cta-button:hover {
-    background-color: #ffae42;
+    background-color: #D6AD60;
     transform: scale(1.1);
 }
 
@@ -107,41 +107,41 @@ header p {
 #features {
     padding: 50px 20px;
     text-align: center;
-    background: #fff;
+    background: #F4EBD0;
 }
 
 #features h2 {
     margin-bottom: 30px;
-    color: #ff8c00;
+    color: #B68D40;
 }
 
 .feature {
     margin: 20px auto;
     max-width: 600px;
     padding: 20px;
-    background-color: #fffbf5;
-    border-left: 5px solid #ff8c00;
+    background-color: #EEE2BE;
+    border-left: 5px solid #B68D40;
     border-radius: 5px;
 }
 
 .feature h3 {
-    color: #ff8c00;
+    color: #B68D40;
     margin-bottom: 10px;
 }
 
 .feature p {
-    color: #666;
+    color: black;
 }
 
 /* Screenshots Section */
 #screenshots {
     padding: 50px 20px;
     text-align: center;
-    background: #fff;
+    background: #F4EBD0;
 }
 
 #screenshots h2 {
-    color: #ff8c00;
+    color: #B68D40;
     margin-bottom: 20px;
 }
 
@@ -168,7 +168,7 @@ header p {
 #download {
     padding: 60px 20px;
     text-align: center;
-    background: #ff8c00;
+    background: #B68D40;
     color: white;
 }
 
@@ -180,7 +180,7 @@ header p {
 #download p {
     font-size: 1.1rem;
     margin-bottom: 20px;
-    color: #fff;
+    color: white;
 }
 
 .download-buttons {
@@ -191,8 +191,8 @@ header p {
     display: inline-block;
     margin: 10px;
     padding: 12px 25px;
-    background: white;
-    color: #ff8c00;
+    background: #EEE2BE;
+    color: #B68D40;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
@@ -200,7 +200,7 @@ header p {
 }
 
 .download-button:hover {
-    background-color: #ffe0b2;
+    background-color: #F4EBD0;
     transform: scale(1.1);
 }
 
@@ -208,11 +208,10 @@ header p {
 footer {
     padding: 20px;
     text-align: center;
-    background: #333;
-    color: #ccc;
+    background: #122620;
     font-size: 0.9rem;
 }
 
 footer p {
-    color: #aaa;
+    color: grey;
 }
