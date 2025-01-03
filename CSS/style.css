@@ -1,8 +1,16 @@
+/* Custom Font */
+@font-face {
+    font-family: 'TEMPSITC';
+    src: url('../Media/TEMPSITC.TTF') format('truetype');
+}
+
 /* Reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'TEMPSITC';
+    font-weight: bold;
 }
 
 /* General Styling */
